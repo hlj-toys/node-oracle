@@ -1,5 +1,5 @@
 
-FROM node:10
+FROM node:12
 
 LABEL maintainer="HLJ"
 
